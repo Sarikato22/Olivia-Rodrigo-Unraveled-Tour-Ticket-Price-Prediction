@@ -56,7 +56,6 @@ The repository is intended to showcase the data collection methodology, experime
 ## Limitations
 
 - Ticket prices are influenced by changing market conditions and are not guaranteed to follow historical patterns.
-- The adjustment between tours assumes that historical GUTS Tour pricing can provide useful information once scaled to the Unraveled Tour's higher price levels.
 - Predictions are based on the information available at the time of each run.
 - The model estimates market prices and classifications; it cannot guarantee that a ticket will be available at a predicted price.
 
